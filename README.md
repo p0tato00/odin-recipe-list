@@ -1,2 +1,2 @@
 # odin-list
-in this project, i will show that i can do list and stuff (more to add)
+Using html to create a simple webpage for the odin project.
